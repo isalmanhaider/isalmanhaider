@@ -5,6 +5,12 @@
 - ✨ Technology stacks I have mastered ...
 
 <code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/drupal/drupal-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.drupal.org/files/Wordmark_blue_RGB.png"></a></code>
+<code><a href="#" target="_blank"><img height="50" src=""></a></code>
 <code><a href="#" target="_blank"><img height="50" src=""></a></code>
 <code><a href="#" target="_blank"><img height="50" src=""></a></code>
 <code><a href="#" target="_blank"><img height="50" src=""></a></code>
