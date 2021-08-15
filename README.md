@@ -1,28 +1,6 @@
 ### UNDER CONSTRUCTION! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ✨ Technology stacks I have mastered ...
-
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/drupal/drupal-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.drupal.org/files/Wordmark_blue_RGB.png"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.drush.org/img/drush_logo-black.png"></a></code>
-<code><a href="#" target="_blank"><img height="50" src=""></a></code>
-<code><a href="#" target="_blank"><img height="50" src=""></a></code>
-<code><a href="#" target="_blank"><img height="50" src=""></a></code>
-<code><a href="#" target="_blank"><img height="50" src=""></a></code>
-<code><a href="#" target="_blank"><img height="50" src=""></a></code>
-
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: I recently got married LOL! ...
-
+- 🔭 I’m currently working on my profile
 <!--
 **isalmanhaider/isalmanhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
