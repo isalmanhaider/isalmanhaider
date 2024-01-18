@@ -4,7 +4,7 @@
 
 🔭 **Currently Crafting:** I'm immersed in developing innovative Drupal modules and themes that push the boundaries of what's possible in web experiences.
 
-🌱 **Ever Learning:** Currently diving deeper into headless Drupal architectures and exploring the latest in Drupal 9 features.
+🌱 **Ever Learning:** Currently diving deeper into headless Drupal architectures and exploring the latest techologies in Web and AI.
 
 💬 **Let's Talk Drupal:** Ask me anything about Drupal best practices, module development, theme customization, or site building.
 
