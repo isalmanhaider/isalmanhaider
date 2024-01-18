@@ -1,6 +1,4 @@
-# Hello and Welcome to My GitHub! 👋
-
-## About Me
+## Salman Haider - Triple Acquia Certified Drupal Expert! 👋
 
 📚 **Certified Expertise:** Proud to be an Acquia Certified Drupal Developer with a decade of experience shaping digital experiences.
 
