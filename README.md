@@ -1,17 +1,23 @@
-### UNDER CONSTRUCTION! 👋
+# Hello and Welcome to My GitHub! 👋
 
-- 🔭 I’m currently working on my profile
-<!--
-**isalmanhaider/isalmanhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+📚 **Certified Expertise:** Proud to be an Acquia Certified Drupal Developer with a decade of experience shaping digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently Crafting:** I'm immersed in developing innovative Drupal modules and themes that push the boundaries of what's possible in web experiences.
+
+🌱 **Ever Learning:** Currently diving deeper into headless Drupal architectures and exploring the latest in Drupal 9 features.
+
+💬 **Let's Talk Drupal:** Ask me anything about Drupal best practices, module development, theme customization, or site building.
+
+👯 **Collaboration Station:** I’m on the lookout to collaborate on groundbreaking open-source Drupal projects. Let's innovate together!
+
+🤔 **Seeking Solutions:** I'm always interested in tackling complex challenges in Drupal development. Got a Drupal puzzle? I’m here to help!
+
+🏆 **Portfolio Highlights:** Check out my portfolio for a tour of my most impactful Drupal projects at [www.salmanhaider.com](http://www.salmanhaider.com).
+
+📫 **Reach Out:** Connect with me on [LinkedIn](https://www.linkedin.com/in/salman-haider-1071531ab) or drop an email at [me@salmanhaider.com](mailto:me@salmanhaider.com).
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun Fact:** When I'm not coding, I'm probably out hiking, capturing nature through my lens, playing cricket, soccer, swimming or at the gym!
