@@ -1,5 +1,9 @@
 ## Salman Haider - Triple Acquia Certified Drupal Expert! 👋
 
+Drupal profile: [https://drupal.org/u/isalmanhaider](https://drupal.org/u/isalmanhaider)
+
+Acquia profile: [https://certification.acquia.com/user/salman-haider](https://certification.acquia.com/user/salman-haider)
+
 📚 **Certified Expertise:** Proud to be an Acquia Certified Drupal Developer with a decade of experience shaping digital experiences.
 
 🔭 **Currently Crafting:** I'm immersed in developing innovative Drupal modules and themes that push the boundaries of what's possible in web experiences.
