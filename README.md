@@ -1,5 +1,7 @@
 ## Salman Haider - Triple Acquia Certified Drupal Expert! 👋
 
+Github Certified: [Certificate](https://www.credly.com/badges/d11003f4-8c9d-4d9c-90e0-579d6b2015f1)
+
 Drupal profile: [https://drupal.org/u/isalmanhaider](https://drupal.org/u/isalmanhaider)
 
 Acquia profile: [https://certification.acquia.com/user/salman-haider](https://certification.acquia.com/user/salman-haider)
